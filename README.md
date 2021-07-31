@@ -57,8 +57,9 @@ Paramillionaire registration form:https://forms.gle/24kkXtywW5tixkBg8
 
 ## About Parami Protocol
 
-Official Website: https://parami.io
-Telegram: https://t.me/ParamiProtocolEN
-Twitter: https://twitter.com/ParamiProtocol
-Medium: https://paramiprotocol.medium.com
-Discord: https://discord.com/invite/bxFuekgvYJ
+- Official Website: https://parami.io
+- Telegram: https://t.me/ParamiProtocolEN
+- Twitter: https://twitter.com/ParamiProtocol
+- Medium: https://paramiprotocol.medium.com
+- Discord: https://discord.com/invite/bxFuekgvYJ
+- Github: https://github.com/parami-protocol
