@@ -14,8 +14,7 @@ We need these kinds of Paramillionaires to join our homeland building:
 - Influential in a telegram community of more than 1,000 members
 - Able to host AMA(Ask Me Anything)
 - Enthusiastic for Web3.0 and Advertising of next generation.
-
-Eager to express opinions in the community and deeply faithful in that their opinions will help the members of the entire community
+- Eager to express opinions in the community and deeply faithful in that their opinions will help the members of the entire community
 
 ### Social Paramillionaire
 
