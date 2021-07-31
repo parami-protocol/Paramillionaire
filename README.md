@@ -54,6 +54,9 @@ Paramillionaire registration form:https://forms.gle/24kkXtywW5tixkBg8
 6. Fancy outfit from Parami’s wardrobe
 
 ## List of Recognized Ambassadors
+- Placeholder
+- Placeholder
+- Placeholder
 
 ## About Parami Protocol
 
